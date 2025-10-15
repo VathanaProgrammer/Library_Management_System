@@ -1,0 +1,608 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|c:\\users\\sieng\\repos\\libray_mnagement_systemm\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\UserForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:UserForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\UserForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:UserForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|c:\\users\\sieng\\repos\\libray_mnagement_systemm\\staffregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:staffregister.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\StaffRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:StaffRegister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|c:\\users\\sieng\\repos\\libray_mnagement_systemm\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\ReportForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:ReportForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|c:\\users\\sieng\\repos\\libray_mnagement_systemm\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Libray_Mnagement_Systemm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:Libray_Mnagement_Systemm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBookQuantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:AddBookQuantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBookForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:AddBookForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\bookfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:bookfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BookFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:BookFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\addborrowbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:addborrowbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBorrowBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:AddBorrowBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddUserForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:AddUserForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\addbookquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:addbookquantity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BorrowForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:BorrowForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBookForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:EditBookForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\editbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:editbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBorrowBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:EditBorrowBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\editborrowbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:editborrowbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:EditUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\staffregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:staffregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBorrowBook.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:EditBorrowBook.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BorrowForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:BorrowForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BookFrm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B453511-9ECD-464C-87D5-BDC038774133}|Libray_Mnagement_Systemm.csproj|solutionrelative:BookFrm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffRegister.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\StaffRegister.Designer.cs",
+              "RelativeDocumentMoniker": "StaffRegister.Designer.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\StaffRegister.Designer.cs",
+              "RelativeToolTip": "StaffRegister.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:16:59.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\ReportForm.Designer.cs",
+              "RelativeDocumentMoniker": "ReportForm.Designer.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\ReportForm.Designer.cs",
+              "RelativeToolTip": "ReportForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:16:59.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-15T22:16:59.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:54:13.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Libray_Mnagement_Systemm.csproj",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Libray_Mnagement_Systemm.csproj",
+              "RelativeDocumentMoniker": "Libray_Mnagement_Systemm.csproj",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Libray_Mnagement_Systemm.csproj",
+              "RelativeToolTip": "Libray_Mnagement_Systemm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T03:49:14.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddBookQuantity.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBookQuantity.cs",
+              "RelativeDocumentMoniker": "AddBookQuantity.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBookQuantity.cs",
+              "RelativeToolTip": "AddBookQuantity.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:22:41.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddBookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBookForm.cs",
+              "RelativeDocumentMoniker": "AddBookForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBookForm.cs [Design]",
+              "RelativeToolTip": "AddBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:05:18.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBookForm.cs",
+              "RelativeDocumentMoniker": "AddBookForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBookForm.cs",
+              "RelativeToolTip": "AddBookForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:15:47.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BookFrm.cs",
+              "RelativeDocumentMoniker": "BookFrm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BookFrm.cs [Design]",
+              "RelativeToolTip": "BookFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:52:30.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookFrm.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BookFrm.cs",
+              "RelativeDocumentMoniker": "BookFrm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BookFrm.cs",
+              "RelativeToolTip": "BookFrm.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAUwPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:55:58.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddBorrowBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBorrowBook.cs",
+              "RelativeDocumentMoniker": "AddBorrowBook.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBorrowBook.cs [Design]",
+              "RelativeToolTip": "AddBorrowBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:50:34.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddBorrowBook.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBorrowBook.cs",
+              "RelativeDocumentMoniker": "AddBorrowBook.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBorrowBook.cs",
+              "RelativeToolTip": "AddBorrowBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:01:46.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddUserForm.cs",
+              "RelativeDocumentMoniker": "AddUserForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddUserForm.cs",
+              "RelativeToolTip": "AddUserForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:20:11.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddBookQuantity.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBookQuantity.cs",
+              "RelativeDocumentMoniker": "AddBookQuantity.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddBookQuantity.cs [Design]",
+              "RelativeToolTip": "AddBookQuantity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:16:38.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddUserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddUserForm.cs",
+              "RelativeDocumentMoniker": "AddUserForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\AddUserForm.cs [Design]",
+              "RelativeToolTip": "AddUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:19:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BorrowForm.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BorrowForm.cs",
+              "RelativeDocumentMoniker": "BorrowForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BorrowForm.cs",
+              "RelativeToolTip": "BorrowForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:48:26.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BorrowForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BorrowForm.cs",
+              "RelativeDocumentMoniker": "BorrowForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BorrowForm.cs [Design]",
+              "RelativeToolTip": "BorrowForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:38:27.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBookForm.cs",
+              "RelativeDocumentMoniker": "EditBookForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBookForm.cs",
+              "RelativeToolTip": "EditBookForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:51:09.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditBookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBookForm.cs",
+              "RelativeDocumentMoniker": "EditBookForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBookForm.cs [Design]",
+              "RelativeToolTip": "EditBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:46:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditBorrowBook.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBorrowBook.cs",
+              "RelativeDocumentMoniker": "EditBorrowBook.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBorrowBook.cs",
+              "RelativeToolTip": "EditBorrowBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:26:45.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditBorrowBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBorrowBook.cs",
+              "RelativeDocumentMoniker": "EditBorrowBook.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBorrowBook.cs [Design]",
+              "RelativeToolTip": "EditBorrowBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:54:09.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditUser.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditUser.cs",
+              "RelativeDocumentMoniker": "EditUser.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditUser.cs",
+              "RelativeToolTip": "EditUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:59:58.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditUser.cs",
+              "RelativeDocumentMoniker": "EditUser.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditUser.cs [Design]",
+              "RelativeToolTip": "EditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:58:32.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\UserForm.cs [Design]",
+              "RelativeToolTip": "UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:43:31.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StaffRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\StaffRegister.cs",
+              "RelativeDocumentMoniker": "StaffRegister.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\StaffRegister.cs [Design]",
+              "RelativeToolTip": "StaffRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:29:45.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\ReportForm.cs",
+              "RelativeDocumentMoniker": "ReportForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\ReportForm.cs",
+              "RelativeToolTip": "ReportForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:12:15.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\ReportForm.cs",
+              "RelativeDocumentMoniker": "ReportForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\ReportForm.cs [Design]",
+              "RelativeToolTip": "ReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:08:36.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\UserForm.cs",
+              "RelativeDocumentMoniker": "UserForm.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\UserForm.cs",
+              "RelativeToolTip": "UserForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:26:26.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:49:37.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditBorrowBook.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBorrowBook.Designer.cs",
+              "RelativeDocumentMoniker": "EditBorrowBook.Designer.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\EditBorrowBook.Designer.cs",
+              "RelativeToolTip": "EditBorrowBook.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:04:24.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:34:39.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-15T16:02:05.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BorrowForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BorrowForm.Designer.cs",
+              "RelativeDocumentMoniker": "BorrowForm.Designer.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BorrowForm.Designer.cs",
+              "RelativeToolTip": "BorrowForm.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:33:54.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffRegister.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\StaffRegister.cs",
+              "RelativeDocumentMoniker": "StaffRegister.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\StaffRegister.cs",
+              "RelativeToolTip": "StaffRegister.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:29:54.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookFrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BookFrm.Designer.cs",
+              "RelativeDocumentMoniker": "BookFrm.Designer.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\BookFrm.Designer.cs",
+              "RelativeToolTip": "BookFrm.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:46:48.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\UserForm.Designer.cs",
+              "RelativeDocumentMoniker": "UserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\sieng\\repos\\Libray_Mnagement_Systemm\\UserForm.Designer.cs",
+              "RelativeToolTip": "UserForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:09:43.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
